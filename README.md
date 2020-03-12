@@ -1,4 +1,4 @@
-learn submit# Model Class Methods
+# Model Class Methods
 
 ## Objectives
 
